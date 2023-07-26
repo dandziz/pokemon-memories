@@ -1,0 +1,3 @@
+[submodule "pokemon-memories"]
+    path = pokemon-memories
+    url = https://github.com/dandziz/pokemon-memories.git
